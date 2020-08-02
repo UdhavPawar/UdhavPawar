@@ -1,2 +1,4 @@
 <h1 align="center">Hi 👋, I'm Udhav Pawar</h1>
-<h3 align="center">An ambitious Site Reliability Engineer who enjoys making lives easier by building what we dream of. Dreams are made of codes and I’m specialized in building our dreams into reality.</h3>
+<h3 align="center">An versatile Site Reliability Engineer who enjoys working on what doesn't work.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=udhavpawar" alt="udhavpawar" /> </p>
