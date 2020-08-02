@@ -21,4 +21,17 @@
 ![](https://img.shields.io/badge/security-guardduty-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=green)
 ![](https://img.shields.io/badge/security-trustedsite-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=lightgrey)
 ![](https://img.shields.io/badge/monitoring-grafana-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/oncall-pagerduty-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=red)
+![](https://img.shields.io/badge/oncall-pagerduty-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=red)<br>
+
+
+<h1 align="center">Let's Build Something Together</h1>
+
+<!-- Actual text -->
+- You can find me on [![LinkedIn][2.2]][2]
+-  :mailbox_with_mail: **upawar78@gmail.com**
+
+<!-- Icons -->
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (UdhavPawar LinkedIn)
+
+<!-- Links to your social media accounts -->
+[2]: https://www.linkedin.com/in/udhav-pawar/
