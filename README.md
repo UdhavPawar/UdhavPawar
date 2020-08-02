@@ -1,9 +1,14 @@
-
+<!-- Profile Views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udhavpawar&color=blue&style=plastic&label=Profile Views" alt="udhavpawar" /> </p> 
 
+<!-- Header + GIF -->
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"> folks! I'm Udhav</h1>
-<h3 align="center">A versatile Site Reliability Engineer who enjoys working on what doesn't work.</h3><br>
+<h4 align="center">A versatile Site Reliability Engineer who enjoys working on what doesn't work.</h4>
 
+<!-- GitHub Stats -->
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=udhavpawar&count_private=true&show_icons=true" alt="Udhav's github stats" /> </p>
+
+<!-- Tools -->
 <h1 align="center">Tools & Technologies</h1>
 
 ![](https://img.shields.io/badge/code-python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
@@ -21,17 +26,17 @@
 ![](https://img.shields.io/badge/security-guardduty-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=green)
 ![](https://img.shields.io/badge/security-trustedsite-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=lightgrey)
 ![](https://img.shields.io/badge/monitoring-grafana-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/oncall-pagerduty-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=red)<br>
+![](https://img.shields.io/badge/oncall-pagerduty-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=red)
 
-
-<h1 align="center">Let's Build Something Together</h1>
+<!-- Connectivity -->
+<br><h1 align="center">Let's Build Something Together</h1>
 
 <!-- Actual text -->
-- You can find me on [![LinkedIn][2.2]][2]
--  :mailbox_with_mail: **upawar78@gmail.com**
+- You can find me on [![LinkedIn][1.1]][1]
+- :mailbox_with_mail: **upawar78@gmail.com**
 
 <!-- Icons -->
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (UdhavPawar LinkedIn)
+[1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (UdhavPawar LinkedIn)
 
 <!-- Links to your social media accounts -->
-[2]: https://www.linkedin.com/in/udhavpawar/
+[1]: https://www.linkedin.com/in/udhavpawar/
