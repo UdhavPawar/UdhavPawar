@@ -29,7 +29,7 @@
 ![](https://img.shields.io/badge/oncall-pagerduty-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=red)
 
 <!-- Connectivity -->
-<br><h1 align="center">Let's Build Something Together</h1>
+<h1 align="center">Let's Build Something Together</h1>
 
 <!-- Actual text -->
 - You can find me on [![LinkedIn][1.1]][1]
