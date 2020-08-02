@@ -34,4 +34,4 @@
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (UdhavPawar LinkedIn)
 
 <!-- Links to your social media accounts -->
-[2]: https://www.linkedin.com/in/udhav-pawar/
+[2]: https://www.linkedin.com/in/udhavpawar/
