@@ -6,7 +6,7 @@
 <h4 align="center">A versatile Site Reliability Engineer who enjoys working on what doesn't work.</h4>
 
 <!-- GitHub Stats -->
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=udhavpawar&count_private=true&show_icons=true&theme=radical" alt="Udhav's github stats" /> </p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=udhavpawar&count_private=true&show_icons=true" alt="Udhav's github stats" /> </p>
 
 <!-- Tools -->
 <h1 align="center">Tools & Technologies</h1>
