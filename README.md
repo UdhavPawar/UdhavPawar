@@ -18,6 +18,8 @@
 ![](https://img.shields.io/badge/platform-beanstalk-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ff69b4)
 ![](https://img.shields.io/badge/containerization-docker-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=yellowgreen)
 ![](https://img.shields.io/badge/containerization-kubernetes-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=lightgrey)
+![](https://img.shields.io/badge/database-mySQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ff69b4)
+![](https://img.shields.io/badge/database-postgreSQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/logging-loggly-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=9cf)
 ![](https://img.shields.io/badge/OS-linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=red)
 ![](https://img.shields.io/badge/OS-windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=yellow)
@@ -26,6 +28,7 @@
 ![](https://img.shields.io/badge/security-guardduty-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=green)
 ![](https://img.shields.io/badge/security-trustedsite-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=lightgrey)
 ![](https://img.shields.io/badge/monitoring-grafana-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/alerting-sns-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/oncall-pagerduty-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=red)
 
 <!-- Connectivity -->
