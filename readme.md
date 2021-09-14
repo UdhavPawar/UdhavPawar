@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I enjoy automating my day to day routined tasks**
 
-## 🚀 Languages and Tools:
+## 🚀 Languages and Tools
 
 <p align="center"> 
     <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"> </a>
@@ -46,7 +46,29 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Udhav Pawar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=UdhavPawar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="">
+        <img alt="Udhav Pawar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=UdhavPawar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+
+## 📊 My Github Stats
+  <br/>
+    <a href=""> <img alt="Udhav Pawar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=UdhavPawar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href=""> <img alt="Udhav Pawar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdhavPawar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <i>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level
+  
+ <br/>
+ <br/>
+ 
+ <a href=""><img alt="Udhav Pawar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=UdhavPawar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+## Connect with me
+<p align="left">
+<a href = "https://www.linkedin.com/in/udhavpawar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/udhavpawar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+</p>
+
+## ❤ Views and Followers
+<a href=""> <img src="https://komarev.com/ghpvc/?username=UdhavPawar"> </a>
+<a href="https://github.com/UdhavPawar?tab=followers"><img src="https://img.shields.io/github/followers/UdhavPawar?label=Followers&style=social" alt="GitHub Badge"></a>
