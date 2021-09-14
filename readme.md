@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[aws_sync](https://github.com/UdhavPawar/aws_sync)** [**[pypi](https://pypi.org/project/aws-sync/)**] and **[find_github_email](https://github.com/UdhavPawar/find_github_email)** [**[pypi](https://pypi.org/project/find-github-email/)**] python packages
+- 🔭 I’m currently developing **[aws_sync](https://github.com/UdhavPawar/aws_sync)** [**[pypi](https://pypi.org/project/aws-sync/)**] and **[find_github_email](https://github.com/UdhavPawar/find_github_email)** [**[pypi](https://pypi.org/project/find-github-email/)**] python packages
 
 - 🌱 I’m currently learning **SRE principles, Data Structures and Algorithms**
 
