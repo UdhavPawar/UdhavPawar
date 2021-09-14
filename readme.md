@@ -69,6 +69,6 @@
 <a href = "https://www.instagram.com/udhavpawar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
-## ❤ Views and Followers
+## 💙 Views and Followers
 <a href=""> <img src="https://komarev.com/ghpvc/?username=UdhavPawar"> </a>
 <a href="https://github.com/UdhavPawar?tab=followers"><img src="https://img.shields.io/github/followers/UdhavPawar?label=Followers&style=social" alt="GitHub Badge"></a>
