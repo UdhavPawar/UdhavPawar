@@ -40,7 +40,7 @@
     <a href="https://github.com" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/github.png"/> </a>
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a>
     <a href="" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/console.png"/> </a>
-    <a href="https://atom.io/" target="_blank"> <img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-atom-laboratory-justicon-flat-justicon.png"/> </a>
+    <a href="https://atom.io/" target="_blank"> <img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-atom-laboratory-justicon-flat-justicon.png" width="48" height="48"/> </a>
     <a href="" target="_blank">  </a>
     <a href="" target="_blank">  </a> 
 </p>
