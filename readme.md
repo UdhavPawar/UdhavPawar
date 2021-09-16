@@ -48,7 +48,7 @@
 
 <p align="center">
     <a href="">
-        <img alt="Udhav Pawar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=UdhavPawar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img alt="udu's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=UdhavPawar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -62,7 +62,7 @@
  <br/>
  <br/>
  
- <a href=""><img alt="Udhav Pawar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=UdhavPawar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+ <a href=""><img alt="udu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=UdhavPawar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 ## Connect with me
 <p align="left">
