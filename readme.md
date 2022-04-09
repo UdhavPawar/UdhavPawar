@@ -1,18 +1,18 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> folks! I'm Udhav</h1>
-<h3 align="center">A versatile Site Reliability Engineer who enjoys working on what doesn't work</h3>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Udhav</h1>
+<h3 align="center">Site Reliability Engineer who enjoys working on what doesn’t work</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently developing **[find_github_email](https://github.com/UdhavPawar/find_github_email)** [**[pypi](https://pypi.org/project/find-github-email/)**] python package
+- 🔭 I’m currently working on **Terraform Drift Detection and Alerting** project and recently developed a **[TypeRacer Bot](https://github.com/UdhavPawar/TypeRacer.git)** 
 
-- 🌱 I’m currently learning **SRE principles, Data Structures and Algorithms**
+- 🌱 In free time enjoy earning about **SRE principles, Data Structures and Algorithms**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 Open to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://udhavpawar.com)**
+- 👨‍💻 Checkout my **[portfolio](https://udhavpawar.com)** to learn more about my projects
 
 - 📫 You can get in touch with me on **[LinkedIn](https://www.linkedin.com/in/udhavpawar/)**
 
