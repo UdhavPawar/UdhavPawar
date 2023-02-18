@@ -1,24 +1,24 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Udhav</h1>
-<h3 align="center">Site Reliability Engineer who enjoys working on what doesn’t work</h3>
+<h3 align="center">Always building. Endlessly curious. Rarely serious</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Terraform Drift Detection and Alerting** project and recently developed a **[TypeRacer Bot](https://github.com/UdhavPawar/TypeRacer.git)** 
+- 🔭 Currently developing **_Terraform_ + _Kubernetes_** projects and recently developed a **[TypeRacer Bot](https://github.com/UdhavPawar/TypeRacer.git)** 
 
-- 🌱 In free time enjoy earning about **SRE principles, Data Structures and Algorithms**
+- 🌱 In free time enjoy learning about **_SRE principles, Data Structures and Algorithms_**
 
-- 👯 Open to collaborate on **OpenSource Projects**
+- 👯 Enjoy contributing to **_OpenSource Projects_**
 
-- 👨‍💻 Checkout my **[portfolio](https://udhavpawar.com)** to learn more about my projects
+- 👨‍💻 More projects on **[udhav.com](https://udhavpawar.com)**
 
-- 📫 You can get in touch with me on **[LinkedIn](https://www.linkedin.com/in/udhavpawar/)**
+- 📫 Connect with me **[LinkedIn](https://www.linkedin.com/in/udhavpawar/)**
 
-- ⚡ Fun fact **I enjoy automating my day to day routined tasks**
+<!-- - ⚡ Fun fact **I enjoy automating my day to day routined tasks** -->
 
-## 🚀 Languages and Tools
+## 🚀 Current Tech Stack
 
 <p align="center"> 
     <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"> </a>
@@ -39,7 +39,7 @@
     <!--<a href="https://github.com" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/github.png"/> </a> -->
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a>
     <!--<a href="" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/console.png" alt="terminal"> </a> -->
-    <a href="https://atom.io/" target="_blank"> <img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-atom-laboratory-justicon-flat-justicon.png" width="48" height="48"/> </a>
+    <!--<a href="https://atom.io/" target="_blank"> <img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-atom-laboratory-justicon-flat-justicon.png" width="48" height="48"/> </a> -->
     <!--
     <a href="" target="_blank">  </a>
     <a href="" target="_blank">  </a>
@@ -48,7 +48,7 @@
 
 <p align="center">
     <a href="">
-        <img alt="udu's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=UdhavPawar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img alt="git's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=UdhavPawar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -70,12 +70,13 @@
  <a href=""><img alt="udu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=UdhavPawar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 -->
 
-## Connect with me
+<!--
+## 🤝 Let's Connect
 <p align="left">
 <a href = "https://www.linkedin.com/in/udhavpawar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <!-- <a href = "https://www.instagram.com/udhavpawar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p> -->
 
-## 💙 Views and Followers
+<!-- ## 💙 Views and Followers --> 
 <a href=""> <img src="https://komarev.com/ghpvc/?username=UdhavPawar"> </a>
 <a href="https://github.com/UdhavPawar?tab=followers"><img src="https://img.shields.io/github/followers/UdhavPawar?label=Followers&style=social" alt="GitHub Badge"></a>
