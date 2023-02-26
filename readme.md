@@ -1,13 +1,19 @@
-<!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
+<!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> 
 <p align="center">
   <img width="460" height="auto" src="https://user-images.githubusercontent.com/28740403/221335318-9e4e21c2-932d-476f-a460-32167408f294.gif">
 </p>
+-->
+
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Udhav</h1>
-<h3 align="center">Always building. Endlessly curious. Rarely serious</h3>
+<!-- main icons -->
+<img src="https://cdn.jsdelivr.net/gh/udhavpawar/udhavpawar/assets/main.png" /></div>
+<img width="200%" src="https://cdn.jsdelivr.net/gh/udhavpawar/udhavpawar/assets/loading-bar.gif" />
+
+
+<!-- <h align="center">Always building. Endlessly curious. Rarely serious</h3> -->
 
 ## 🙋‍♂️ About Me
-
 - 🔭 Currently developing **_Terraform_ + _Kubernetes_** projects and recently developed a **[TypeRacer Bot](https://github.com/UdhavPawar/TypeRacer.git)** 
 
 - 🌱 In free time enjoy learning about **_SRE principles, Data Structures and Algorithms_**
