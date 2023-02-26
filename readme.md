@@ -2,16 +2,35 @@
 <p align="center">
   <img width="460" height="auto" src="https://user-images.githubusercontent.com/28740403/221335318-9e4e21c2-932d-476f-a460-32167408f294.gif">
 </p>
+<h align="center">Always building. Endlessly curious. Rarely serious</h3> 
 -->
 
-
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Udhav</h1>
+<p align="center">
+  
+  <a href="https://udhav.com/contact">
+    <img alt="website" title="Let's Chat" src="https://custom-icon-badges.demolab.com/badge/Chat-red?style=for-the-badge&logo=comment-discussion&logoColor=white"/></a> 
+  
+  <a href="https://www.linkedin.com/in/udhavpawar">
+    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-yellow?style=for-the-badge&logo=linkedin&label=&logoColor=white"/></a> 
+ 
+  <a href="https://github.com/udhavpawar?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/udhavpawar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  
+  <a href="https://github.com/udhavpawar?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/udhavpawar?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+</p>
+
 <!-- main icons -->
 <img src="https://cdn.jsdelivr.net/gh/udhavpawar/udhavpawar/assets/main.png" /></div>
 <img width="200%" src="https://cdn.jsdelivr.net/gh/udhavpawar/udhavpawar/assets/loading-bar.gif" />
 
 
-<!-- <h align="center">Always building. Endlessly curious. Rarely serious</h3> -->
+
+
+
+
+
 
 ## 🙋‍♂️ About Me
 - 🔭 Currently developing **_Terraform_ + _Kubernetes_** projects and recently developed a **[TypeRacer Bot](https://github.com/UdhavPawar/TypeRacer.git)** 
