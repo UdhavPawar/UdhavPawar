@@ -19,17 +19,15 @@
   
   <a href="https://github.com/udhavpawar?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/udhavpawar?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  
+  <a href="">
+    <img src="https://komarev.com/ghpvc/?username=UdhavPawar&style=for-the-badge&color=8000FF&label=PROFILE+👀 "></a>
+  
 </p>
 
 <!-- main icons -->
 <img src="https://cdn.jsdelivr.net/gh/udhavpawar/udhavpawar/assets/main.png" /></div>
 <img width="200%" src="https://cdn.jsdelivr.net/gh/udhavpawar/udhavpawar/assets/loading-bar.gif" />
-
-
-
-
-
-
 
 
 ## 🙋‍♂️ About Me
@@ -105,5 +103,4 @@
 </p> -->
 
 <!-- ## 💙 Views and Followers --> 
-<a href=""> <img src="https://komarev.com/ghpvc/?username=UdhavPawar"> </a>
-<a href="https://github.com/UdhavPawar?tab=followers"><img src="https://img.shields.io/github/followers/UdhavPawar?label=Followers&style=social" alt="GitHub Badge"></a>
+<!-- <a href="https://github.com/UdhavPawar?tab=followers"><img src="https://img.shields.io/github/followers/UdhavPawar?label=Followers&style=social" alt="GitHub Badge"></a> -->
