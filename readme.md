@@ -26,8 +26,10 @@
 </p>
 
 <!-- main icons -->
+<!--
 <img src="https://cdn.jsdelivr.net/gh/udhavpawar/udhavpawar/assets/main.png" /></div>
 <img width="200%" src="https://cdn.jsdelivr.net/gh/udhavpawar/udhavpawar/assets/loading-bar.gif" />
+-->
 
 
 ## 🙋‍♂️ About Me
@@ -43,7 +45,7 @@
 
 <!-- - ⚡ Fun fact **I enjoy automating my day to day routined tasks** -->
 
-## 🚀 Current Tech Stack
+## 🚀 Tech Stack
 
 <p align="center"> 
     <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"> </a>
